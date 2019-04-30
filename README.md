@@ -1,3 +1,15 @@
+## React & API project for Udemy: The complete Web Development in 2019: Zero to Mastery by @aneagoie
+
+I made this project as final project of React app project for Udemy course.
+I learned how to make React Components and put them together to make an app.
+Also, I use Clarifai API to recognize faces. This technique can be applied to make other react app, too.
+
+This project is front-end part of the project.
+
+## Use Clarifai API Key to run
+
+You can use your own Clarifai API Key to run this application on App.js (src).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
