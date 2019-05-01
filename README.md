@@ -2,7 +2,7 @@
 
 I made this project as final project of React app project for Udemy course.
 I learned how to make React Components and put them together to make an app.
-Also, I use Clarifai API to recognize faces. This technique can be applied to make other react app, too.
+Also, I use Clarifai API to recognize faces. This technique can be applied to make other react apps, too.
 
 This project is front-end part of the project.
 
