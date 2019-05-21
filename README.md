@@ -12,6 +12,17 @@ You can use your own Clarifai API Key to run this application on App.js (src).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Port 3005 to avoid the conflict with back end
+
+I made a change on package.json to change the port number to 3005 to avoid the conflict with back end. (Back-end uses port 3000)
+
+I added on package.json as below:
+
+"scripts": {
+    "start": "set PORT=3005 && react-scripts start",
+    
+(the solution that I found at Stackoverflow.)
+
 ## Available Scripts
 
 In the project directory, you can run:
