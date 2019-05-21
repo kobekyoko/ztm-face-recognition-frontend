@@ -1,4 +1,4 @@
-## React & API project for Udemy: The complete Web Development in 2019: Zero to Mastery by @aneagoie
+## React & API project for Udemy: The complete Web Developer: Zero to Mastery by @aneagoie
 
 I made this project as final project of React app project for Udemy course.
 I learned how to make React Components and put them together to make an app.
