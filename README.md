@@ -14,14 +14,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Port 3005 to avoid the conflict with back end
 
-I made a change on package.json to change the port number to 3005 in order to avoid the conflict with back end. (Back-end uses port 3000)
-
-I added on package.json as below:
+To change the port number to 3005, I added several lines on package.json as below. 
 
 "scripts": {
     "start": "set PORT=3005 && react-scripts start",
     
-(the solution that I found at Stackoverflow.)
+The reason why I change the port number is to avoid the conflict with back end. (Back-end uses port 3000)
+
+(I found this solution at Stackoverflow.)
 
 ## Available Scripts
 
