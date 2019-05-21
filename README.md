@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Port 3005 to avoid the conflict with back end
 
-I made a change on package.json to change the port number to 3005 to avoid the conflict with back end. (Back-end uses port 3000)
+I made a change on package.json to change the port number to 3005 in order to avoid the conflict with back end. (Back-end uses port 3000)
 
 I added on package.json as below:
 
@@ -30,7 +30,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open (http://localhost:3005) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
